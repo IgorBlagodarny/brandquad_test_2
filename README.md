@@ -7,4 +7,4 @@
 Или созданием конфигурации запуска со следующими настройками 
 - module -> scrapy
 - parametres -> crawl fix-price -O results.json
-- Working directory -> ../my_parsers/my_parsers
+- Working directory -> ../my_parsers
